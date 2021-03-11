@@ -30,3 +30,6 @@ https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Learning_De
 [3] Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2017). Grad-cam: Visual explanations from deep networks via gradient-based localization. In Proceedings of the IEEE International Conference on Computer Vision (pp. 618-626).https://arxiv.org/abs/1610.02391
 
 [4] ] Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun: Deep Residual Learning for Image Recognition. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 770-778!https://arxiv.org/abs/1512.0338
+
+[5]Lapuschkin. S, 2019, Opening the Machine Learning Black Box with Layer-wise Relevance Propagation, Doctoral Thesis, Technische Universität Berlin https://depositonce.tu-berlin.de/handle/11303/8813
+
