@@ -2,8 +2,8 @@
 This repository provides a CNN pruning for lightening weight using Grad-CAM
 
 # Objective
-- CNN lightening that becomes deeper and more complex
-- Mininizes loss of accuracy while reducing the computation and time required
+- Lightening weight CNN that becomes deeper and more complex
+- Reduce the computation and time required while minimizing the loss of accuarcy
 
 # Grad-CAM
 ![image](https://user-images.githubusercontent.com/72268423/110791659-cde59a00-82b5-11eb-887f-c4393da4078f.png)
@@ -12,7 +12,7 @@ This repository provides a CNN pruning for lightening weight using Grad-CAM
  So Grad-CAM can be used for setting up the criterion for pruning
  
  # Design Process
- 1. Extract the Grad-CAM value for each filter in each layer,
+ 1. Extract the Grad-CAM value for each filter in each layer.
  2. Set up the appropriate Grad-CAM value for creteria and create mask bit according to creteria
  3. Prune the CNN with mask bits.
  
