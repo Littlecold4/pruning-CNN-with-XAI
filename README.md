@@ -7,6 +7,7 @@ This repository provides a CNN pruning for lightening weight using Grad-CAM.
 
 # Grad-CAM
 ![image](https://user-images.githubusercontent.com/72268423/110791659-cde59a00-82b5-11eb-887f-c4393da4078f.png)
+source: https://jsideas.net/grad_cam/
  
  CAM needs GAP(Global Average Pool) to extract CAM value, but Grad-CAM can extract Grad-CAM value from all layers. 
  So Grad-CAM can be used for setting up the criteria for pruning.
