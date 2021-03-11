@@ -33,3 +33,7 @@ https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Learning_De
 
 [5]Lapuschkin. S, 2019, Opening the Machine Learning Black Box with Layer-wise Relevance Propagation, Doctoral Thesis, Technische Universität Berlin https://depositonce.tu-berlin.de/handle/11303/8813
 
+[6] https://github.com/utkuozbulak/pytorch-cnn-visualizations
+
+[7] https://github.com/jacobgil/pytorch-grad-cam
+
